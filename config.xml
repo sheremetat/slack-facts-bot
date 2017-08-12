@@ -1,0 +1,5 @@
+<config>
+    <facts_dir>/path/to/dir/with/facts</facts_dir>
+    <slack_token>[Slack Bot Token]</slack_token>
+    <slack_bot_user_id>[Slack Bot User Id]</slack_bot_user_id>
+</config>
